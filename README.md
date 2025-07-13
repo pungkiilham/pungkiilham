@@ -2,7 +2,7 @@
 
 <hr>
 <p align="justify">
-A Project Manager with over 7 years of experience, I bring a unique blend of strategic leadership and hands-on full-stack development expertise (PHP/Laravel, React/NextJS, ExpressJS, C#) to every project. My Mechatronic Engineering background empowers me to approach software solutions with a robust understanding of complex systems. I have a proven track record of successfully delivering high-impact information systems for both private and government sectors. While many of my projects are under NDA, this profile reflects my commitment to technical excellence and continuous learning.
+A **Project Manager with over 7 years of experience**, I bring a unique blend of strategic leadership and **hands-on full-stack development expertise** (PHP/Laravel, React/NextJS, ExpressJS, C#) to every project. My **Mechatronic Engineering background** empowers me to approach software solutions with a robust understanding of complex systems. I have a proven track record of successfully delivering high-impact information systems for both private and government sectors. While many of my projects are under NDA, this profile reflects my commitment to technical excellence and continuous learning.
 </p>
 <h3 align="center">My Github's Stats</h3>
 <hr>
